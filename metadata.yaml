@@ -1,0 +1,43 @@
+_repo: In-Happy-Valley_20292
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Yohn, F. C. (Frederick Coffay)
+    alias: Yohn, Frederick Coffay
+    birthdate: 1875
+    deathdate: 1933
+    gutenberg_agent_id: '26457'
+    url: http://www.gutenberg.org/2009/agents/26457
+    wikipedia: http://en.wikipedia.org/wiki/Frederick_Coffay_Yohn
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fox, John
+    alias: Fox, John William
+    birthdate: 1863
+    deathdate: 1919
+    gutenberg_agent_id: '179'
+    url: http://www.gutenberg.org/2009/agents/179
+    wikipedia: http://en.wikipedia.org/wiki/John_Fox%2C_Jr.
+description: ''
+gutenberg_issued: '2007-01-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20292'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Cumberland Mountains -- Fiction'
+- !lcsh 'Mountain life -- Fiction'
+- !lcsh 'Kentucky -- Social life and customs -- Fiction'
+tableOfContents: The Courtship of Allaphair -- The Compact of Christopher -- The Lord's
+  Own Level -- The Marquise of Queensberry -- His Last Christmas Gift -- The Angel
+  from Viper -- The Pope of the Big Sandy -- The Goddess of Happy Valley -- The Battle-Prayer
+  of Parson Small -- The Christmas Tree on Pigeon.
+title: In Happy Valley
+url: http://www.gutenberg.org/ebooks/20292
